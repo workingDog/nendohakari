@@ -7,7 +7,7 @@ creating ceramic works with a number of different parts, such as in Nerikomi.
 
 # **Nendo Hakari App**
 
-![nendo](images/pic2-1-x.png)
+![nendo](images/pic2-x.png)
 
 # Nendo Hakari assist
 
