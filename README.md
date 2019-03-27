@@ -4,13 +4,13 @@ where the user can draw the desired shapes of the various clay components. The t
 creating ceramic works with a number of different clay parts, such as in Nerikomi.
 
 
-![overview](images/overview1.png)
+![icon](images/pot-180.png)
 
 
 
 # **Nendo Hakari App**
 
-![presenter](images/presenter1.png)
+![nendo](images/pic2-x.png)
 
 # Nendo Hakari assist
 
