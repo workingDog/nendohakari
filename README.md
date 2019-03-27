@@ -1,13 +1,10 @@
 
-**Nendo Hakari** is a tool to calculate the amount of clay you need for your ceramic work. It has a simple user interface, 
-where the user can draw the desired shapes of the various clay components. The tool is design mainly for those 
+**Nendo Hakari** is a tool to calculate the amount of clay you need for your ceramic work. It has a simple user interface 
+where the user can draw the desired shapes of the various clay components. The tool is mainly for those 
 creating ceramic works with a number of different clay parts, such as in Nerikomi.
+
+
 ![overview](images/overview1.png)
-
-
-#### How to use on iPad and iPhone
-
-
 
 
 
