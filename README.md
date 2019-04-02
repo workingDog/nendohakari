@@ -7,7 +7,19 @@ creating ceramic works made of different parts, such as in Nerikomi.
 
 # **Nendo Hakari App**
 
+**Nendo Hakari** first screen asks the user to select the type of background image for the tool. For example, 
+using the camera to take a picture of a drawing that will form the background onto which the actual drawing takes place.
+
+##### The choices are: 
+
+- **Camera**, the camera is used to take a photo of an initial drawing that will form the background picture.
+- **Photo**, a pre-existing photo is selected as the initial background picture.
+- **File**, a previously saved **Nendo Hakari** pdf document that already contains the drawings.
+- **Blank**, an empty white background canvas to draw on.
+
 ![nendo](images/pic2-x.png)
+
+
 
 # Nendo Hakari assist
 
