@@ -17,7 +17,39 @@ using the camera to take a picture of a drawing that will form the background on
 - **File**, a previously saved **Nendo Hakari** pdf document that already contains the drawings.
 - **Blank**, an empty white background canvas to draw on.
 
-![nendo](images/pic2-x.png)
+![nendo1](images/v1.png)
+
+### **Setting the scale**
+
+In order to calculate the results of the various drawings/clay parts, a scale must be set. 
+The scale setting consists of a screen **scale line** that can be resized using the handles, 
+and a value in cm that the **scale line** represents. This valued is entered in the **text field** provided.
+
+To help in placing the **scale line** and the drawings a background grid can be displayed using the grid slider.
+
+![nendo2](images/v2.png)
+
+Activating the **drawing tool** button displays a canvas on which you can draw the various parts of your clay work.
+Each different colours represent a different parts. A colour picker is provided to select the colour you desired.
+The results will be aggregated based on the drawing colours.
+
+The typical work flow is to first select a colour, then draw the desired shape and press the **link** button 
+to close the shape and create the drawing of the clay part. It is important to close the shape with the **link** button.
+A **Undo** and **Redo** buttons are also provided.
+
+![nendo3](images/v3.png)
+
+Swiping left brings the **results** pages, where all calculated values are displayed. 
+Each **clay part** is displayed by its colour and is initially given a generic name. Taping on the name 
+brings up the keyboard to edit the name.  
+
+The results consist of the clay type and density selected, the scale used and the length/depth of the clay work.
+The calculated area of the drawing is shown and finally the calculated weight of the clay by each part is displayed.
+
+
+![nendo4](images/v4.png)
+
+![nendo5](images/v5.png)
 
 
 
