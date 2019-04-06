@@ -88,6 +88,7 @@ The following *Privacy Policy* applies to **Nendo Hakari** App.
  * collect, access or record any personal information,
  * collect, access or record any location information,
  * collect, access or record any other information,
+ * connect to any server,
  * contain any In-App purchase,
  * display any advertising,
  * ask for credit card number, 
