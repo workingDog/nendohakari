@@ -62,7 +62,7 @@ Swiping left brings the **results** pages, where the clay information and all ca
 Each **clay part** is displayed by its colour and is initially given a generic name. Taping on the name 
 brings up the keyboard to edit the name.  
 
-The results consist of the clay type and density selected, the scale used and the length/depth of the clay work.
+The results consist of the clay type and density selected, the scale used and the length thickness of the clay work.
 The calculated area of the drawing is shown and finally the calculated weight of the clay for each part is displayed.
 
 The results are aggregated results, that is, parts with the same colour are added together to give you 
@@ -74,7 +74,7 @@ The results also takes into account subtracting all enclosed parts.
 ### **Saving the results**
 
 The rightmost button is the **share** button. Pressing this button brings up the typical **share** functions.
-From these, you can select printing, saving and sharing 
+From these, you can select printing, copying, mailing, saving and sharing 
 the **Nendo Hakari** document as a pdf file. This document includes the drawings and the results pages.
 
 
