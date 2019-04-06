@@ -1,7 +1,7 @@
 
 **Nendo Hakari** is a tool to calculate the amount of clay you need for your ceramic work. It has a simple user interface 
 where the user can draw the desired shapes of the various clay components. The tool is mainly for those 
-creating ceramic works made of different parts, such as in Nerikomi.
+creating ceramic works made of different coloured parts, such as in Nerikomi.
 
 ![icon](images/pot-180.png)
 
@@ -14,16 +14,16 @@ using the camera to take a picture of a drawing that will form the background on
 
 - **Camera**, the camera is used to take a photo of an initial drawing that will form the background picture.
 - **Photo**, a pre-existing photo is selected as the initial background picture.
-- **File**, a previously saved **Nendo Hakari** pdf document that already contains the drawings.
+- **File**, a previously saved **Nendo Hakari** pdf document that already contains some drawings.
 - **Blank**, an empty white background canvas to draw on.
 
 ![nendo1](images/v1.png)
 
 ### **Setting the scale**
 
-In order to calculate the results of the various drawings/clay parts, a scale must be set. 
-The scale setting consists of a screen **scale line** that can be resized using the handles, 
-and a value in cm that the **scale line** represents. This valued is entered in the **text field** provided.
+In order to calculate the results of the various clay parts, a scale must be set. 
+The scale setting consists of a screen **scale line** that can be resized by dragging the handles, 
+and a value in cm that this **scale line** represents. This valued is entered in the **text field** provided.
 
 To help in placing the **scale line** and the drawings a background grid can be displayed using the grid slider.
 
@@ -40,7 +40,7 @@ in order to calculate the amount of clay each part requires.
 
 ### **Drawing the shapes**
 
-Activating the **drawing tool** button displays a canvas on which you can draw the various parts of your clay work.
+Pressing the **drawing tool** button displays a canvas on which you can draw the various parts of your clay work.
 The different colours represent the different parts of the work. A colour picker is provided to select the colour you desired.
 The results will be aggregated based on the drawing colours. That means all shapes of the same colour 
 will be "added together" in the results.
@@ -48,6 +48,11 @@ will be "added together" in the results.
 The typical work flow is to first select a colour, then draw the desired shape and press the **link** button 
 to close the shape and create the drawing of the clay part. It is important to close the shape with the **link** button.
 A **Undo** and **Redo** buttons are provided to assist in the process.
+
+To draw additional shapes of an existing colour, an **eye drop** colour picker is provided. 
+Tap on the **eye drop** icon and it will start rotating, indicating it is in action. 
+Then touch the shape with the colour you want. You can now draw additional shape of the same colour.
+
 
 ![nendo3](images/v3.png)
 
@@ -70,7 +75,7 @@ The results also takes into account subtracting all enclosed parts.
 
 The rightmost button is the **share** button. Pressing this button brings up the typical **share** functions.
 From these, you can select printing, saving and sharing 
-the **Nendo Hakari** document as a pdf file. The document includes the drawings and the results pages.
+the **Nendo Hakari** document as a pdf file. This document includes the drawings and the results pages.
 
 
 # Nendo Hakari assist
