@@ -29,15 +29,29 @@ To help in placing the **scale line** and the drawings a background grid can be 
 
 ![nendo2](images/v2.png)
 
+### **Selecting the clay**
+
+Next to the scale button is the **setting** icon. Pressing the **setting** icon brings up a screen where the type of clay can be selected. 
+The clay type, the density of the clay and the length of the work must have some reasonable values 
+in order to calculate the amount of clay each part requires.
+
+![nendo5](images/v5.png)
+
+
+### **Drawing the shapes**
+
 Activating the **drawing tool** button displays a canvas on which you can draw the various parts of your clay work.
-Each different colours represent a different parts. A colour picker is provided to select the colour you desired.
-The results will be aggregated based on the drawing colours.
+The different colours represent the different parts of the work. A colour picker is provided to select the colour you desired.
+The results will be aggregated based on the drawing colours. That means all shapes of the same colour 
+will be "added together" in the results.
 
 The typical work flow is to first select a colour, then draw the desired shape and press the **link** button 
 to close the shape and create the drawing of the clay part. It is important to close the shape with the **link** button.
-A **Undo** and **Redo** buttons are also provided.
+A **Undo** and **Redo** buttons are provided to assist in the process.
 
 ![nendo3](images/v3.png)
+
+### **The results**
 
 Swiping left brings the **results** pages, where all calculated values are displayed. 
 Each **clay part** is displayed by its colour and is initially given a generic name. Taping on the name 
@@ -46,10 +60,13 @@ brings up the keyboard to edit the name.
 The results consist of the clay type and density selected, the scale used and the length/depth of the clay work.
 The calculated area of the drawing is shown and finally the calculated weight of the clay by each part is displayed.
 
+The results are aggregated results, that is, parts with the same colour are added together to give you 
+the total amount of clay required for that particular colour. 
+The results also takes into account subtracting all enclosed parts from the larger enclosing part.
+
+
 
 ![nendo4](images/v4.png)
-
-![nendo5](images/v5.png)
 
 
 
