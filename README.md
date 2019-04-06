@@ -3,9 +3,20 @@
 where the user can draw the desired shapes of the various clay components. The tool is mainly for those 
 creating ceramic works made of different coloured parts, such as in Nerikomi.
 
-![icon](images/pot-180.png)
+![icon1](images/pot-180.png)
 
 # **Nendo Hakari App**
+
+
+**Nendo Hakari** is free and will soon be available on the [Apple Store]().
+
+![icon2](images/app-store.jpg)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 **Nendo Hakari** first screen asks the user to select the type of background image for the tool. For example, 
 using the camera to take a picture of a drawing that will form the background onto which the actual drawing takes place.
