@@ -34,9 +34,9 @@ using the camera to take a picture of a drawing that will form the background on
 
 In order to calculate the results of the various clay parts, a scale must be set. 
 The scale setting consists of a screen **scale line** that can be resized by dragging the handles, 
-and a value in cm that this **scale line** represents. This valued is entered in the **text field** provided.
+and a value in cm that this **scale line** represents. This value is entered in the **text field** provided.
 
-To help in placing the **scale line** and the drawings a background grid can be displayed using the grid slider.
+To help in placing the **scale line** and the drawings a background grid can be displayed and adjusted using the grid slider.
 
 ![nendo2](images/v2.png)
 
@@ -53,7 +53,7 @@ in order to calculate the amount of clay each part requires.
 
 Pressing the **drawing tool** button displays a canvas on which you can draw the various parts of your clay work.
 The different colours represent the different parts of the work. A colour picker is provided to select the colour you desired.
-The results will be aggregated based on the drawing colours. That means all shapes of the same colour 
+The results will be aggregated based on the chosen colours. That means all shapes of the same colour 
 will be "added together" in the results.
 
 The typical work flow is to first select a colour, then draw the desired shape and press the **link** button 
