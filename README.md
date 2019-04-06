@@ -18,6 +18,8 @@ creating ceramic works made of different coloured parts, such as in Nerikomi.
 &nbsp;
 &nbsp;
 
+### **Starting**
+
 **Nendo Hakari** first screen asks the user to select the type of background image for the tool. For example, 
 using the camera to take a picture of a drawing that will form the background onto which the actual drawing takes place.
 
