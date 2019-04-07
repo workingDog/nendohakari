@@ -63,8 +63,12 @@ to close the shape and create the drawing of the clay part. It is important to c
 A **Undo** and **Redo** buttons are provided to assist in the process.
 
 To draw additional shapes of an existing colour, an **eye drop** colour picker is provided. 
-Tap on the **eye drop** icon and it will start rotating, indicating it is in action. 
+Tap on the **eye drop** icon and it will start pulsating, indicating it is in action. 
 Then touch the shape with the colour you want. You can now draw additional shape of the same colour.
+
+To change an existing shape colour, select the colour you want from the colour selector wheel, then 
+ tap on the **fill can** icon and it will start pulsating indicating it is in action. 
+Then touch the shape you want to fill with your colour. 
 
 
 ![nendo3](images/v3.png)
