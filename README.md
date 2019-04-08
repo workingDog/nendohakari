@@ -53,7 +53,7 @@ in order to calculate the amount of clay each part requires.
 
 ### **Drawing the shapes**
 
-Pressing the **drawing tool** button displays a canvas on which you can draw the various parts of your clay work.
+Pressing the **draw** button displays a canvas on which you can draw the various parts of your clay work.
 The different colours represent the different parts of the work. A colour picker is provided to select the colour you desired.
 The results will be aggregated based on the chosen colours. That means all shapes of the same colour 
 will be "added together" in the results.
