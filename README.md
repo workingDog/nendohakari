@@ -30,7 +30,7 @@ using the camera to take a picture of a drawing that will form the background on
 - **File**, a previously saved **Nendo Hakari** pdf document that already contains some drawings.
 - **Blank**, an empty white background canvas to draw on.
 
-![nendo1](images/v1.png)
+![nendo1](images/ipad3g/ipadv1.png)
 
 ### **Setting the scale**
 
@@ -40,7 +40,7 @@ and a value in cm that this **scale line** represents. This value is entered in 
 
 To help in placing the **scale line** and the drawings a background grid can be displayed and adjusted using the grid slider.
 
-![nendo2](images/v2.png)
+![nendo2](images/ipad3g/ipadv2.png)
 
 ### **Selecting the clay**
 
@@ -48,7 +48,7 @@ Next to the scale button is the **setting** icon. Pressing the **setting** icon 
 The clay type, the density of the clay and the length of the work must have some reasonable values 
 in order to calculate the amount of clay each part requires.
 
-![nendo5](images/v5.png)
+![nendo5](images/ipad3g/ipadv5.png)
 
 
 ### **Drawing the shapes**
@@ -71,7 +71,7 @@ To change an existing shape colour, select the colour you want from the colour s
 Then touch the shape you want to fill with your colour. 
 
 
-![nendo3](images/v3.png)
+![nendo3](images/ipad3g/ipadv3.png)
 
 ### **The results**
 
@@ -86,7 +86,7 @@ The results are aggregated results, that is, parts with the same colour are adde
 the total amount of clay required for that particular colour. 
 The results also takes into account subtracting all enclosed parts.
 
-![nendo4](images/v4.png)
+![nendo4](images/ipad3g/ipadv4.png)
 
 ### **Saving the results**
 
