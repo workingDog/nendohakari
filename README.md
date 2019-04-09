@@ -15,6 +15,12 @@ creating ceramic works made of different coloured parts, such as in Nerikomi.
 &nbsp;
 &nbsp;
 &nbsp;
+
+**Nendo Hakari** is in testing phase, you can download it here: [Download](https://testflight.apple.com/join/xr6TowqB) 
+           
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
