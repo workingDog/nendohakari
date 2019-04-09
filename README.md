@@ -5,7 +5,7 @@ creating ceramic works made of different coloured parts, such as in Nerikomi.
 
 ![icon1](images/pot-180.png)
 
-# **Nendo Hakari App**
+# **Nendo Hakari for iPhone and iPad App**
 
 
 **Nendo Hakari** is free and will soon be available on the [Apple Store]().
