@@ -1,14 +1,15 @@
 
-**Nendo Hakari** is an iPhone and an iPad App to calculate the amount of clay you need for your ceramic work. It has a simple interface 
+**Nendo Hakari** is is an iPad and iPhone App to calculate the amount of clay you need for your ceramic work. It has a simple interface 
 where the user can draw the desired shapes of the various clay components. The tool is mainly for those 
-creating ceramic works made of different coloured parts, such as in Nerikomi.
+creating ceramic works made of different coloured parts, such as in Nerikomi. **Nendo Hakari** is most 
+convenient when used on iPad using a stylus.
 
 ![icon1](images/pot-180.png)
 
 # **Nendo Hakari App**
 
 
-**Nendo Hakari** for iPhone and iPad is free and will soon be available on the [Apple Store]().
+**Nendo Hakari** for iPads and iPhones is free and will soon be available on the [Apple Store]().
 
 ![icon2](images/app-store.jpg)
 
