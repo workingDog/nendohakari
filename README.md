@@ -61,13 +61,14 @@ in order to calculate the amount of clay each part requires.
 ### **Drawing the shapes**
 
 Pressing the **draw** button displays a canvas on which you can draw the various parts of your clay work.
-The different colours represent the different parts of the work. A colour picker is provided to select the colour you desired.
+The different colours represent the different clay types of the work. A colour picker is provided to select the colour you desired.
 The results will be aggregated based on the chosen colours. That means all shapes of the same colour 
 will be "added together" in the results.
 
 The typical work flow is to first select a colour, then draw the desired shape and press the **link** button 
 to close the shape and create the drawing of the clay part. It is important to close the shape with the **link** button.
-A **Undo** and **Redo** buttons are provided to assist in the process.
+A **Undo** and **Redo** buttons are provided to assist in the process. It is also important to draw the 
+shapes in a consistent flow. That is, drawing the shape in a clockwise or anti-clockwise way, but not a mix of the two.
 
 To draw additional shapes of an existing colour, an **eye drop** colour picker is provided. 
 Tap on the **eye drop** icon and it will start pulsating, indicating it is in action. 
