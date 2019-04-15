@@ -68,7 +68,7 @@ will be "added together" in the results.
 The typical work flow is to first select a colour, then draw the desired shape and press the **link** button 
 to close the shape and create the drawing of the clay part. It is important to close the shape with the **link** button.
 A **Undo** and **Redo** buttons are provided to assist in the process. It is also important to draw the 
-shape in a consistent direction. That is, drawing the shape in a clockwise or anti-clockwise way, but not a mix of the two.
+shape in a consistent direction. That is, drawing the shape in a clockwise or anti-clockwise direction, but not a mix of the two.
 
 To draw additional shapes of an existing colour, an **eye drop** colour picker is provided. 
 Tap on the **eye drop** icon and it will start pulsating, indicating it is in action. 
