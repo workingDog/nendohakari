@@ -51,7 +51,7 @@ To help in placing the **scale line** and the drawings a background grid can be 
 
 ### **Selecting the clay**
 
-Next to the scale button is the **setting** icon. Pressing the **setting** icon brings up a screen where the type of clay can be selected. 
+Next to the scale button is the **clay pot** icon. Pressing the **clay pot** icon brings up a screen where the type of clay can be selected. 
 The clay type, the density of the clay and the length of the work must have some reasonable values 
 in order to calculate the amount of clay each part requires.
 
