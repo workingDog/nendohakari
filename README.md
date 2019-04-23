@@ -83,7 +83,7 @@ Then touch the shape you want to fill with your colour.
 
 ### **The results**
 
-Swiping left brings the **results** pages, where the clay information and all calculated values are displayed. 
+Swiping left or pressing the **results** button brings the **results** pages, where the clay information and all calculated values are displayed. 
 Each **clay part** is displayed by its colour and is initially given a generic name. Taping on the name 
 brings up the keyboard to edit the name.  
 
