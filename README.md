@@ -8,17 +8,8 @@ convenient when used on an iPad using a stylus.
 
 # **Nendo Hakari App**
 
-
-**Nendo Hakari** for iPads and iPhones is free and will soon be available on the [Apple Store]().
-
-![icon2](images/app-store.jpg)
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-**Nendo Hakari** is in testing phase, you can download it here: [Download](https://testflight.apple.com/join/xr6TowqB) 
-           
+**Nendo Hakari** for iPads and iPhones is free and is available on the [Apple Store](https://itunes.apple.com/us/app/nendo-hakari/id1458946388?ls=1&mt=8).
+         
 &nbsp;
 &nbsp;
 &nbsp;
